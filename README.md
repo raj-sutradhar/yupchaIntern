@@ -92,7 +92,7 @@ The frontend will be available at `http://localhost:3000`
 Make sure these are set in your `.env` file:
 
 - `OPENROUTER_API_KEY` - Your OpenRouter API key
-- `OPENROUTER_MODEL` - The AI model to use (default: google/gemini-flash-1.5)
+- `OPENROUTER_MODEL` - The AI model to use (default: google/gemini-flash-1.5)/(mistralai/mistral-small-3.2-24b-instruct:free)
 - `TWITTER_CLONE_API_KEY` - Your Twitter clone API key
 - `TWITTER_CLONE_USERNAME` - Your username for the Twitter clone
 - `TWITTER_CLONE_URL` - The Twitter clone API endpoint
